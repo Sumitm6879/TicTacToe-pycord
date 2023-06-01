@@ -4,4 +4,4 @@
 
 ![image](https://cdn.discordapp.com/attachments/882547933940183040/933370115393740800/unknown.png)
 
-![Gameplay](https://gist.github.com/Sumitm6879/51447e5ce441cc3fe88ddcf0448e3e47/raw/Gameplay.gif)
+![Gameplay](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjOTY2NzMxNjdjZDc3YjBhMWExMjNkODIzMjRkMDFhODY2ODgyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/9WUlRvRYH1DgprYQGW/giphy.gif)
