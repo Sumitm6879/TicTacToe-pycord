@@ -4,7 +4,4 @@
 
 ![image](https://cdn.discordapp.com/attachments/882547933940183040/933370115393740800/unknown.png)
 
-<video controls>
-    <source src="https://drive.google.com/uc?export=download&id=1-311u6EfVh3N1frA5UKhg0U6bH3muVOq" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![Gameplay](https://gist.github.com/Sumitm6879/51447e5ce441cc3fe88ddcf0448e3e47/raw/Gameplay.gif)
